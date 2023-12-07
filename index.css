@@ -1,0 +1,83 @@
+.main{
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-style: italic;
+}
+.stat{
+    justify-content: flex-start;
+    color: indianred;
+    background-color: lightgoldenrodyellow;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.fashion{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+    justify-content: center;
+    text-indent: 150px;
+    font-size: 30px;
+}
+.fashion a{
+    text-decoration: none;
+    color: indigo;
+    
+}
+.fashion a:hover{
+    font-size: 20px;
+}
+.img{
+    justify-content: flex-start;
+    color: white;
+    background-color: pink;
+    padding-top: 5px;
+    padding-left: 10px;
+    height: 500px;
+    text-indent: 200px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+    justify-content: center;
+    
+}
+.CLIENT-DETAILS{
+    justify-content: flex-start;
+    color: white;
+    background-color: green;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.Details{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+    justify-content: center;
+    text-indent: 200px;
+}
+.FOR{
+    justify-content: flex-start;
+    color: white;
+    background-color: purple;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.for{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+    justify-content: center;
+    text-indent: 200px;
+}
+.end{
+    justify-content: center;
+    color: white;
+    background-color: black;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
